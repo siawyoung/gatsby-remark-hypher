@@ -1,7 +1,7 @@
 {
   "name": "gatsby-remark-hypher",
   "description": "A gatsby-remark plugin to add hyphenation to Markdown.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Lau Siaw Young <sy@siawyoung.com>",
   "bugs": {
     "url": "https://github.com/siawyoung/gatsby-remark-hypher/issues"
