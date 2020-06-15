@@ -16,9 +16,11 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "peerDependencies": {
-    "gatsby": "^2.0.0",
+  "dependencies": {
     "remark-hypher": "^0.0.1"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.0.0"
   },
   "repository": {
     "type": "git",
