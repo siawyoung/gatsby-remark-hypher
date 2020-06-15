@@ -14,9 +14,8 @@ plugins: [
         {
           resolve: "gatsby-remark-hypher",
           options: {
-            language: require('hyphenation.en-gb'),
-            leftMin: 3,
-            rightMin: 2,
+            leftmin: 3,
+            rightmin: 2,
             minLength: 6,
           },
         },
